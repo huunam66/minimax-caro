@@ -67,6 +67,7 @@ body{
     font-size: 30px;
     color: #fff;
     cursor: pointer;
+    font-weight: bold;
 }
 
 .btn-restart:hover{
